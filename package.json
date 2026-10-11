@@ -1,0 +1,8 @@
+{
+  "name": "ld-agent-architect",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/scan.mjs"
+  }
+}
